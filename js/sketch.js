@@ -14,7 +14,7 @@ hangedImage = loadImage('hanged.png')
 }
 
 function draw() {
-background(160, 160, 160);
+background(170, 170, 170);
 drawHiddenWord();
 showTriesRemaining();
 drawHanged();
